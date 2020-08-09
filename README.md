@@ -1,74 +1,47 @@
 # Awesome MakerDAO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of awesome MakerDAO resources.
+A curated list of awesome Kleros resources.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
-* [Awesome MakerDAO](#awesome-makerdao)
-  * [Documentation](#documentation)
-  * [Development](#development)
-  * [Community](#community)
-  * [Guides](#guides)
-  * [Videos](#videos)
-  * [Exchanges](#exchanges)
-  * [Platform Tools](#platform-tools)
-  * [CDP Tools](#cdp-tools)
+Feel free to add suggestions!
+
+ * [Dapps](#dapps)
+ * [Documentation](#documentation)
+ * [Development](#development)
+ * [Tools](#tools)
+ * [Community](#community)
   
+## Dapps
+* [Kleros Curate](https://curate.kleros.io/) - A generalized TCR factory.
+* [Kleros Escrow](https://escrow.kleros.io/) - An escrow dapp.
+* [Kleros T2CR](https://tokens.kleros.io/tokens/) - A token-curated list of Ethereum tokens.
+* [Linguo](https://linguo.kleros.io/) - A translation platform. WIP.
+* [Kleros Court](https://court.kleros.io/) - Court dashboard for Kleros jurors.
+* [Kleros Dispute Resolver](https://resolve.kleros.io/) - Dapp for creating and interacting with Kleros disputes.
+* [Uniswap Ninja](https://uniswap.ninja/) - A Uniswap frontend-fork with curated list of ERC20 tokens.
+* [Omen](http://omen.eth.link/) - A prediction market using Kleros for final arbitrator.
+
 ## Documentation
-* [Whitepaper](https://makerdao.com/whitepaper/) - "The Dai Stablecoin System" whitepaper.
-* [Purple Paper](https://makerdao.com/purple/) - Reference implementation of the decentralized DAI Stablecoin issuance system.
+* [Whitepaper](https://makerdao.com/whitepaper/)
+* [Yellow Paper](https://kleros.io/static/yellowpaper_en-28d8e155664f3f21578958a482f33bd1.pdf/) - More technical version of the whitepaper.
+* [Kleros Book](https://kleros.io/book/) - A compilation book explaining the many tenets of Kleros.
 
 ## Development
-* [Developer Docs](https://developer.makerdao.com/) - Official documentation for developers (Dai, OasisDEX, Keepers, Feeds etc.).
-* [Query API](https://developer.makerdao.com/dai/1/graphql/) - GraphQL API for querying platform data (CDP, risk parameters etc.).
-* [GitHub repository](https://github.com/makerdao)
+* [GitHub repository](https://github.com/kleros)
+* [Kleros Core](https://github.com/kleros/kleros/) - Core Kleros smart contracts.
+* [Kleros Interactions](https://github.com/kleros/kleros-interaction/) - Smart contracts able to interact with Kleros.
+* [GTCR SDK](https://github.com/kleros/gtcr-sdk/) - SDK to interact with generalized TCR contracts.
+* [Archon](https://github.com/kleros/archon/) - Library for interacting with Arbitrable and Arbitrator contacts.
+* [ERC-792 Docs](https://developer.kleros.io/en/latest/) - Documentation for the ERC-792 Arbitration Standard.
+* [Dapp Ideas](https://github.com/kleros/hackathon/) - List of Kleros Dapp ideas.
+
+## Tools
+* [Kleroscan](http://kleroscan.com/) - Community built Kleros explorer.
+* [Klerosboard](http://klerosboard.com/) - Community build Kleros dashboard.
 
 ## Community
-* [Chat](https://chat.makerdao.com/) - Community chat platform [Rocket.chat].
-* [/r/MakerDAO](https://www.reddit.com/r/MakerDAO/) - Reddit thread.
-* [MakerDao Articles, Blog Posts and Tutorials](https://www.reddit.com/r/MakerDAO/comments/8k8h51/makerdao_articles_blog_posts_and_tutorials/) [Reddit]
-
-## Guides
-* [Maker for Dummies](https://medium.com/cryptolinks/maker-for-dummies-a-plain-english-explanation-of-the-dai-stablecoin-e4481d79b90) [Medium] - A Plain English Explanation of the Dai Stablecoin.
-* [Getting Started With Maker](https://www.reddit.com/r/MakerDAO/comments/8jsalu/getting_started_with_maker/) [Reddit]
-* [FAQ: Liquidation](https://www.reddit.com/r/MakerDAO/comments/8efk5q/faq_possibly_everything_you_ever_wanted_to_know/) [Reddit] - Possibly everything you ever wanted to know about Liquidation.
-
-## Videos
-* [What is Maker?](https://www.youtube.com/watch?v=Di5xUzvyEPM) [YouTube] - Official infographic overview video.
-* [Presentation @ Devcon3](https://www.youtube.com/watch?v=L1erp9Gkesk) [Youtube] - Presentation from Nov'2017 by Andy Milenius.
-* [Dai Dashboard Walkthrough](https://www.youtube.com/watch?v=7f0ZMQCpov4) [YouTube] - Walk through some basic operations of the Dai credit system.
-
-## Exchanges
-Exchanges that support trading of MKR and DAI tokens.
-
-### Decentralized exchanges
-* [OasisDEX](https://oasisdex.com/) - Fully decentralized exchange focused to Dai and MKR.
-* [OasisDirect](https://oasis.direct/) - Simplified UI for Oasis DEX.
-* [Radar Relay](https://radarrelay.com/)
-* [Paradex](https://paradex.io/) (acquired by Coinbase)
-* [AirSwap](https://www.airswap.io/)
-* [Bancor Network](https://www.bancor.network/communities/5a604b1f7b6b0e0001fc6ce2) (only DAI)
-
-### Other exchanges
-* [Ethfinex](https://www.ethfinex.com/) (owned by Bitfinex)
-* [BiBox](https://www.bibox.com/)
-* [OKEx](https://www.okex.com/market?product=mkr_btc) (only MKR)
-
-## Platform Tools
-* [Dai Dashboard](https://dai.makerdao.com/) - Official Dai/CDP Dashboard.
-* [MKR Tools](https://mkr.tools/) - Explorer tool for MakerDAO ecosystem (statistics, graphs etc.).
-
-## CDP Tools
-
-### Hosted
-* [EasyCDP](https://easycdp.com/) ([info](https://info.easycdp.com/)) - Simplified interface for CDP with lot of features (Ledger/Trezor support, Mobile friendly).
-* [AutoCDP](https://autocdp.com/) - Tool to generate CDPs and automatically re lock up ETH using Dai.
-* [CDP Simulator](https://cdp-simulator.surge.sh/) - Simple CDP calculator/simulator.
-
-### Self-hosted
-* [cdpnotify](https://github.com/gcarq/cdpnotify) - CDP Collateralization Notification Bot for Telegram. [Python]
-
-## Libraries
-* [node-dai](https://github.com/Kaisle/node-dai) - Node-wrapper for MakerDAO
+* [Forum](https://forum.kleros.io/) - Official Kleros forum.
+* [Telegram](https://t.me/kleros/) - Official Kleros Telegram channel.
 
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
