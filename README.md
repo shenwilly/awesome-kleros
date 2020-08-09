@@ -24,14 +24,14 @@ Feel free to add suggestions!
 ## Documentation
 * [Whitepaper](https://makerdao.com/whitepaper/)
 * [Yellow Paper](https://kleros.io/static/yellowpaper_en-28d8e155664f3f21578958a482f33bd1.pdf/) - More technical version of the whitepaper.
-* [Kleros Book](https://kleros.io/book/) - A compilation book explaining the many tenets of Kleros.
+* [Kleros Book](https://kleros.io/book/) - A compilation book explaining the main tenets of Kleros.
 
 ## Development
 * [GitHub repository](https://github.com/kleros)
 * [Kleros Core](https://github.com/kleros/kleros/) - Core Kleros smart contracts.
 * [Kleros Interactions](https://github.com/kleros/kleros-interaction/) - Smart contracts able to interact with Kleros.
 * [GTCR SDK](https://github.com/kleros/gtcr-sdk/) - SDK to interact with generalized TCR contracts.
-* [Archon](https://github.com/kleros/archon/) - Library for interacting with Arbitrable and Arbitrator contacts.
+* [Archon](https://github.com/kleros/archon/) - Library for interacting with Arbitrable and Arbitrator contracts.
 * [ERC-792 Docs](https://developer.kleros.io/en/latest/) - Documentation for the ERC-792 Arbitration Standard.
 * [Dapp Ideas](https://github.com/kleros/hackathon/) - List of Kleros Dapp ideas.
 
