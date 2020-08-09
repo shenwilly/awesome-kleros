@@ -24,7 +24,7 @@ Feel free to add suggestions!
 ## Documentation
 * [Whitepaper](https://makerdao.com/whitepaper/)
 * [Yellow Paper](https://kleros.io/static/yellowpaper_en-28d8e155664f3f21578958a482f33bd1.pdf/) - More technical version of the whitepaper.
-* [Kleros Book](https://kleros.io/book/) - A compilation book explaining the main tenets of Kleros.
+* [Kleros Book](https://kleros.io/book/) - A compilation book exploring the main tenets of Kleros.
 
 ## Development
 * [GitHub repository](https://github.com/kleros)
@@ -38,6 +38,7 @@ Feel free to add suggestions!
 ## Tools
 * [Kleroscan](http://kleroscan.com/) - Community built Kleros explorer.
 * [Klerosboard](http://klerosboard.com/) - Community build Kleros dashboard.
+* [Kleros Journal](https://github.com/mrclegal/KlerosLawJournal/) - Collection of notable Kleros disputes.
 
 ## Community
 * [Forum](https://forum.kleros.io/) - Official Kleros forum.
