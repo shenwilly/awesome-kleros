@@ -19,7 +19,7 @@ Feel free to add suggestions!
 * [Kleros Court](https://court.kleros.io/) - Court dashboard for Kleros jurors.
 * [Kleros Dispute Resolver](https://resolve.kleros.io/) - Dapp for creating and interacting with Kleros disputes.
 * [Uniswap Ninja](https://uniswap.ninja/) - A Uniswap frontend-fork with curated list of ERC20 tokens.
-* [Omen](http://omen.eth.link/) - A prediction market using Kleros for final arbitrator.
+* [Omen](http://omen.eth.link/) - A prediction market using Kleros as final arbitrator.
 
 ## Documentation
 * [Whitepaper](https://makerdao.com/whitepaper/)
