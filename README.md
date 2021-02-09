@@ -27,6 +27,7 @@ Feel free to add suggestions!
 * [Kleros Book](https://kleros.io/book/) - A compilation book exploring the main tenets of Kleros.
 
 ## Development
+* [Knowledge Base](https://kleros.gitbook.io/docs/)
 * [GitHub repository](https://github.com/kleros)
 * [Kleros Core](https://github.com/kleros/kleros/) - Core Kleros smart contracts.
 * [Kleros Interactions](https://github.com/kleros/kleros-interaction/) - Smart contracts able to interact with Kleros.
@@ -41,6 +42,7 @@ Feel free to add suggestions!
 * [Kleros Journal](https://github.com/mrclegal/KlerosLawJournal/) - Collection of notable Kleros disputes.
 
 ## Community
+* [Discord](https://discord.com/invite/MhXQGCyHd9) - Official Discord channel
 * [Forum](https://forum.kleros.io/) - Official Kleros forum.
 * [Telegram](https://t.me/kleros/) - Official Kleros Telegram channel.
 
