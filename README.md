@@ -12,6 +12,7 @@ Feel free to add suggestions!
  * [Community](#community)
   
 ## Dapps
+* [Proof of Humanity](http://proofofhumanity.id/) - A registry of real humans on Ethereum.
 * [Kleros Curate](https://curate.kleros.io/) - A generalized TCR factory.
 * [Kleros Escrow](https://escrow.kleros.io/) - An escrow dapp.
 * [Kleros T2CR](https://tokens.kleros.io/tokens/) - A token-curated list of Ethereum tokens.
